@@ -1,0 +1,582 @@
+{
+  "5100001": {
+    "nombre": "Rio Sobrante En Piadero",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5100001_rio_sobrante_en_piadero.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.2253,
+        "lon": -70.7119
+      },
+      {
+        "lat": -32.275299999999994,
+        "lon": -70.6119
+      },
+      {
+        "lat": -32.1753,
+        "lon": -70.8119
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.2253,
+        "lon": -70.3619
+      },
+      {
+        "lat": -32.1753,
+        "lon": -70.3119
+      }
+    ],
+    "cordillera_lon_limit": -70.3619
+  },
+  "5101001": {
+    "nombre": "Rio Pedernal En Tejada",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5101001_rio_pedernal_en_tejada.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.0708,
+        "lon": -70.7564
+      },
+      {
+        "lat": -32.120799999999996,
+        "lon": -70.6564
+      },
+      {
+        "lat": -32.0208,
+        "lon": -70.8564
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.0708,
+        "lon": -70.4064
+      },
+      {
+        "lat": -32.0208,
+        "lon": -70.3564
+      }
+    ],
+    "cordillera_lon_limit": -70.4064
+  },
+  "5110002": {
+    "nombre": "Rio Petorca En Peon O Hierro Viejo",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5110002_rio_petorca_en_peon_o_hierro_viejo.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.2786,
+        "lon": -70.9889
+      },
+      {
+        "lat": -32.328599999999994,
+        "lon": -70.8889
+      },
+      {
+        "lat": -32.2286,
+        "lon": -71.0889
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.2786,
+        "lon": -70.6389
+      },
+      {
+        "lat": -32.2286,
+        "lon": -70.5889
+      }
+    ],
+    "cordillera_lon_limit": -70.6389
+  },
+  "5120001": {
+    "nombre": "Rio Petorca En Longotoma O Puente Ff",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5120001_rio_petorca_en_longotoma_o_puente_ff.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.3778,
+        "lon": -71.3719
+      },
+      {
+        "lat": -32.4278,
+        "lon": -71.2719
+      },
+      {
+        "lat": -32.3278,
+        "lon": -71.47189999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.3778,
+        "lon": -71.0219
+      },
+      {
+        "lat": -32.3278,
+        "lon": -70.97189999999999
+      }
+    ],
+    "cordillera_lon_limit": -71.0219
+  },
+  "5200001": {
+    "nombre": "Rio Alicahue En Colliguay",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5200001_rio_alicahue_en_colliguay.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.33,
+        "lon": -70.7381
+      },
+      {
+        "lat": -32.379999999999995,
+        "lon": -70.63810000000001
+      },
+      {
+        "lat": -32.28,
+        "lon": -70.8381
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.33,
+        "lon": -70.38810000000001
+      },
+      {
+        "lat": -32.28,
+        "lon": -70.3381
+      }
+    ],
+    "cordillera_lon_limit": -70.38810000000001
+  },
+  "5221002": {
+    "nombre": "Rio Ligua En Quinquimo",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5221002_rio_ligua_en_quinquimo.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.4414,
+        "lon": -71.3139
+      },
+      {
+        "lat": -32.4914,
+        "lon": -71.21390000000001
+      },
+      {
+        "lat": -32.391400000000004,
+        "lon": -71.4139
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.4414,
+        "lon": -70.96390000000001
+      },
+      {
+        "lat": -32.391400000000004,
+        "lon": -70.9139
+      }
+    ],
+    "cordillera_lon_limit": -70.96390000000001
+  },
+  "5320001": {
+    "nombre": "Estero Quintero En Valle Alegre",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5320001_estero_quintero_en_valle_alegre.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.7936,
+        "lon": -71.4161
+      },
+      {
+        "lat": -32.843599999999995,
+        "lon": -71.3161
+      },
+      {
+        "lat": -32.7436,
+        "lon": -71.5161
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.7936,
+        "lon": -71.0661
+      },
+      {
+        "lat": -32.7436,
+        "lon": -71.0161
+      }
+    ],
+    "cordillera_lon_limit": -71.0661
+  },
+  "5401003": {
+    "nombre": "Rio Juncal En Juncal",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5401003_rio_juncal_en_juncal.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.8625,
+        "lon": -70.1675
+      },
+      {
+        "lat": -32.912499999999994,
+        "lon": -70.06750000000001
+      },
+      {
+        "lat": -32.8125,
+        "lon": -70.2675
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.8625,
+        "lon": -69.81750000000001
+      },
+      {
+        "lat": -32.8125,
+        "lon": -69.7675
+      }
+    ],
+    "cordillera_lon_limit": -69.81750000000001
+  },
+  "5402001": {
+    "nombre": "Rio Blanco En Rio Blanco",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5402001_rio_blanco_en_rio_blanco.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.9072,
+        "lon": -70.2978
+      },
+      {
+        "lat": -32.9572,
+        "lon": -70.1978
+      },
+      {
+        "lat": -32.857200000000006,
+        "lon": -70.39779999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.9072,
+        "lon": -69.9478
+      },
+      {
+        "lat": -32.857200000000006,
+        "lon": -69.89779999999999
+      }
+    ],
+    "cordillera_lon_limit": -69.9478
+  },
+  "5402015": {
+    "nombre": "Rio Blanco Antes Junta Rio De Los Leones",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5402015_rio_blanco_antes_junta_rio_de_los_leones.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.98,
+        "lon": -70.2547
+      },
+      {
+        "lat": -33.029999999999994,
+        "lon": -70.1547
+      },
+      {
+        "lat": -32.93,
+        "lon": -70.3547
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.98,
+        "lon": -69.9047
+      },
+      {
+        "lat": -32.93,
+        "lon": -69.8547
+      }
+    ],
+    "cordillera_lon_limit": -69.9047
+  },
+  "5403002": {
+    "nombre": "Rio Aconcagua En Rio Blanco",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5403002_rio_aconcagua_en_rio_blanco.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.9067,
+        "lon": -70.3036
+      },
+      {
+        "lat": -32.9567,
+        "lon": -70.20360000000001
+      },
+      {
+        "lat": -32.856700000000004,
+        "lon": -70.4036
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.9067,
+        "lon": -69.95360000000001
+      },
+      {
+        "lat": -32.856700000000004,
+        "lon": -69.9036
+      }
+    ],
+    "cordillera_lon_limit": -69.95360000000001
+  },
+  "5406001": {
+    "nombre": "Rio Colorado En Colorado",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5406001_rio_colorado_en_colorado.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.8572,
+        "lon": -70.4122
+      },
+      {
+        "lat": -32.907199999999996,
+        "lon": -70.3122
+      },
+      {
+        "lat": -32.8072,
+        "lon": -70.51219999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.8572,
+        "lon": -70.0622
+      },
+      {
+        "lat": -32.8072,
+        "lon": -70.01219999999999
+      }
+    ],
+    "cordillera_lon_limit": -70.0622
+  },
+  "5410002": {
+    "nombre": "Rio Aconcagua En Chacabuquito",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5410002_rio_aconcagua_en_chacabuquito.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.8503,
+        "lon": -70.5094
+      },
+      {
+        "lat": -32.900299999999994,
+        "lon": -70.4094
+      },
+      {
+        "lat": -32.8003,
+        "lon": -70.6094
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.8503,
+        "lon": -70.1594
+      },
+      {
+        "lat": -32.8003,
+        "lon": -70.1094
+      }
+    ],
+    "cordillera_lon_limit": -70.1594
+  },
+  "5410005": {
+    "nombre": "Rio Aconcagua En San Felipe",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5410005_rio_aconcagua_en_san_felipe.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.7572,
+        "lon": -70.7367
+      },
+      {
+        "lat": -32.807199999999995,
+        "lon": -70.6367
+      },
+      {
+        "lat": -32.7072,
+        "lon": -70.8367
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.7572,
+        "lon": -70.3867
+      },
+      {
+        "lat": -32.7072,
+        "lon": -70.3367
+      }
+    ],
+    "cordillera_lon_limit": -70.3867
+  },
+  "5411001": {
+    "nombre": "Estero Pocuro En El Sifon",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5411001_estero_pocuro_en_el_sifon.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.9164,
+        "lon": -70.5403
+      },
+      {
+        "lat": -32.9664,
+        "lon": -70.44030000000001
+      },
+      {
+        "lat": -32.866400000000006,
+        "lon": -70.6403
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.9164,
+        "lon": -70.19030000000001
+      },
+      {
+        "lat": -32.866400000000006,
+        "lon": -70.1403
+      }
+    ],
+    "cordillera_lon_limit": -70.19030000000001
+  },
+  "5414001": {
+    "nombre": "Rio Putaendo En Resguardo Los Patos",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5414001_rio_putaendo_en_resguardo_los_patos.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.5017,
+        "lon": -70.5811
+      },
+      {
+        "lat": -32.5517,
+        "lon": -70.48110000000001
+      },
+      {
+        "lat": -32.4517,
+        "lon": -70.6811
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.5017,
+        "lon": -70.23110000000001
+      },
+      {
+        "lat": -32.4517,
+        "lon": -70.1811
+      }
+    ],
+    "cordillera_lon_limit": -70.23110000000001
+  },
+  "5421002": {
+    "nombre": "Estero Catemu En Puente Santa Rosa",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5421002_estero_catemu_en_puente_santa_rosa.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.7769,
+        "lon": -70.9772
+      },
+      {
+        "lat": -32.826899999999995,
+        "lon": -70.8772
+      },
+      {
+        "lat": -32.7269,
+        "lon": -71.07719999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.7769,
+        "lon": -70.6272
+      },
+      {
+        "lat": -32.7269,
+        "lon": -70.57719999999999
+      }
+    ],
+    "cordillera_lon_limit": -70.6272
+  },
+  "5423003": {
+    "nombre": "Rio Aconcagua En Romeral",
+    "dataset_csv": "datos_entrenamiento_region_valparaiso_5423003_rio_aconcagua_en_romeral.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -32.8403,
+        "lon": -71.0256
+      },
+      {
+        "lat": -32.890299999999996,
+        "lon": -70.9256
+      },
+      {
+        "lat": -32.7903,
+        "lon": -71.12559999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -32.8403,
+        "lon": -70.6756
+      },
+      {
+        "lat": -32.7903,
+        "lon": -70.62559999999999
+      }
+    ],
+    "cordillera_lon_limit": -70.6756
+  },
+  "4716004": {
+    "nombre": "Rio Choapa En Puente Negro",
+    "dataset_csv": "datos_entrenamiento_choapa_completo_enriquecido.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -31.6881,
+        "lon": -71.2658
+      },
+      {
+        "lat": -31.7381,
+        "lon": -71.1658
+      },
+      {
+        "lat": -31.638099999999998,
+        "lon": -71.3658
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -31.6881,
+        "lon": -70.9158
+      },
+      {
+        "lat": -31.638099999999998,
+        "lon": -70.8658
+      }
+    ],
+    "cordillera_lon_limit": -70.9158
+  },
+  "4320001": {
+    "nombre": "Rio Elqui En Algarrobal",
+    "dataset_csv": "datos_entrenamiento_limari_completo_enriquecido.csv",
+    "puntos_cuenca": [
+      {
+        "lat": -29.9953,
+        "lon": -70.5867
+      },
+      {
+        "lat": -30.0453,
+        "lon": -70.4867
+      },
+      {
+        "lat": -29.9453,
+        "lon": -70.68669999999999
+      }
+    ],
+    "puntos_cordillera": [
+      {
+        "lat": -29.9953,
+        "lon": -70.2367
+      },
+      {
+        "lat": -29.9453,
+        "lon": -70.18669999999999
+      }
+    ],
+    "cordillera_lon_limit": -70.2367
+  }
+}

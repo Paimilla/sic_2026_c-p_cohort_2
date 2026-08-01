@@ -1,0 +1,21 @@
+# Archivos grandes de Inteligencia Artificial (No subir a GitHub)
+modelos_entrenados/
+*.pkl
+!cache_predicciones.pkl
+
+# Bases de datos pesadas (No subir a GitHub)
+datos_entrenamiento/
+CAMELS_CL_v202201/
+*.csv
+*.nc
+
+# Entornos virtuales
+venv/
+env/
+.env
+__pycache__/
+
+# Logs y archivos temporales del sistema
+log_ejecucion_nacional.txt
+*.log
+.DS_Store

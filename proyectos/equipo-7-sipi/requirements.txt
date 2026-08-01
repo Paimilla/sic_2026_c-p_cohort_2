@@ -1,0 +1,20 @@
+# SIPI AI - Sistema Inteligente de Predicción de Inundaciones
+# Dependencias del proyecto
+
+# === Machine Learning ===
+xgboost>=1.7.0
+scikit-learn>=1.2.0
+shap>=0.42.0
+joblib>=1.2.0
+
+# === Procesamiento de Datos ===
+pandas>=2.0.0
+numpy>=1.24.0
+
+# === Visualización y Frontend ===
+streamlit>=1.28.0
+plotly>=5.15.0
+nbformat>=4.2.0
+
+# === Conexión a APIs ===
+requests>=2.28.0

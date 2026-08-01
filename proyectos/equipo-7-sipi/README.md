@@ -138,7 +138,7 @@ streamlit run app.py
 ## 🌐 Aplicación Publicada
 
 <!-- TODO: Reemplazar con la URL real al publicar en Streamlit Cloud -->
-🔗 **URL**: *Pendiente de publicación en Streamlit Cloud*
+🔗 **URL**: *https://sic2026c-pcohort2-cfcjentye7habtrqdqyl63.streamlit.app/*
 
 ## 🛡️ Filtro Anti-Alucinaciones (Heurística de Sensatez)
 
